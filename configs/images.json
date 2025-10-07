@@ -1,0 +1,38 @@
+{
+  "defaultProfile": {
+    "value": "https://www.dropbox.com/scl/fi/i67nsqvsili0i1x4ia7w8/default.png?rlkey=hxoz6oyqh784rl1e6w7cvcej3&st=qpg1asno&dl=1"
+  },
+  "Main": {
+    "comment": "Logo principal da BOT, é usada no Menu e em alguns comandos, recomendado usar uma logo na vertical.",
+    "value": "https://img1.pixhost.to/images/5532/595466354_0445a21b669c301beac9.jpg"
+  },
+  "Brincadeiras": {
+    "comment": "São comandos que usam random para medir a porcentagem e divertir seu grupo, por exemplo: “O quanto você é gay?”, “Que tal um surubão?”",
+    "Cards": {
+      "Nazista": "https://files.catbox.moe/hnoq82.jpg",
+      "Gay": "https://files.catbox.moe/udcjsp.jpg",
+      "Corno": "https://files.catbox.moe/cwswwj.jpg",
+      "Gostosa": "https://files.catbox.moe/0jc7pk.jpg",
+      "Gostoso": "https://files.catbox.moe/8j24xf.jpg",
+      "Feio": "https://files.catbox.moe/dzzqxu.jpg",
+      "Gado": "https://files.catbox.moe/xadbac.jpg",
+      "Vesgo": "https://files.catbox.moe/zf5obu.jpg",
+      "Bebado": "https://files.catbox.moe/vhggcz.jpg",
+      "Tapa": "https://files.catbox.moe/1cv9ke.mp4",
+      "Matar": "https://files.catbox.moe/1cv9ke.mp4",
+      "Kisses": "https://files.catbox.moe/4l0036.mp4",
+      "Sexo": "https://files.catbox.moe/f27vik.mp4",
+      "Mamar": "https://files.catbox.moe/1eq2pd.mp4",
+      "Molesta": "https://files.catbox.moe/dit22l.mp4",
+      "Chute": "https://files.catbox.moe/y32s21.mp4",
+      "RankGay": "https://files.catbox.moe/jz15az.jpg",
+      "RankGado": "https://files.catbox.moe/amg857.jpg",
+      "RankCorno": "https://files.catbox.moe/y6a2py.jpg",
+      "RankGostoso": "https://files.catbox.moe/jz261k.jpg",
+      "RankGostosa": "https://files.catbox.moe/mpvz8k.jpg",
+      "RankNazista": "https://files.catbox.moe/j2f7pw.jpg",
+      "RankOtaku": "https://files.catbox.moe/fip8ab.jpg",
+      "RankPau": "https://files.catbox.moe/7b1rwy.jpg"
+    }
+  }
+}

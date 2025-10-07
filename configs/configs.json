@@ -1,0 +1,48 @@
+{
+  "Privacidade": {
+    "status": true,
+    "message": "Oi, *#nome#*! No momento, meu dono me pediu para não responder a ninguém. Como as regras são claras, vou precisar te bloquear. Mas não se preocupe, se precisar de algo, só chamar meu dono, e ele resolve tudo para você!"
+  },
+  "gruposPermitidos": {
+    "grupos": [
+      "120363419212213689@g.us",
+      "120363267110914937@g.us",
+      "120363416670246830@g.us",
+      "120363416975168186@g.us",
+      "120363324114174741@g.us",
+      "120363177320252863@g.us",
+      "120363400960293297@g.us",
+      "120363400566583545@g.us",
+      "120363311841916674@g.us",
+      "120363347315692575@g.us",
+      "120363402755208574@g.us",
+      "120363417955791861@g.us",
+      "120363402485145990@g.us"
+    ],
+    "comment": "Esta é a minha lista de grupos liberados a usar comandos sem ter aluguel, onde ficam armazenados os grupos permitidos."
+  },
+  "listaNegraG": {
+    "users": [],
+    "comment": "Esta é a minha lista negra global, onde ficam armazenados os usuários bloqueados."
+  },
+  "blockCmdG": {
+    "commands": [
+      ""
+    ],
+    "comment": "Aqui estão os comandos que foram bloqueados, sem possibilidade de uso por agora."
+  },
+  "commandsVIP": {
+    "commands": [],
+    "comment": "Estes são os comandos exclusivos para usuários Premium. Aproveite ao máximo!"
+  },
+  "Modos": {
+    "aluguel": {
+      "status": false,
+      "comment": "Ativando o modo de aluguel, vou restringir o uso de comandos a grupos registrados. Mas fique tranquilo! Donos e usuários premium sempre terão acesso liberado."
+    },
+    "bot": {
+      "status": false,
+      "comment": "Com o modo bot ativado, não responderei mais aos comandos. Porém, donos ainda podem contar comigo sem problemas!"
+    }
+  }
+}

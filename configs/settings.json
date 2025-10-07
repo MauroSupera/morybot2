@@ -1,0 +1,33 @@
+{
+  "OwnerNumber": {
+    "description": "Este é o número do dono oficial do bot, o grande mestre por trás de tudo! Sempre que precisar, é só chamar o responsável por todas as maravilhas do bot.",
+    "value": "559885568495"
+  },
+  "Prefix": {
+    "description": "Ah, esse é o segredo! O prefixo é o símbolo mágico que o bot usa para entender quando você está enviando um comando. Lembre-se: qualquer coisa sem o prefixo não será um comando, mas quem manda é você!",
+    "value": "/"
+  },
+  "nameOwner": {
+    "description": "Este é o nome que o bot vai usar para se referir ao seu dono, o ser iluminado que guia todas as ações. É como se fosse o título de nobreza no reino digital.",
+    "value": "BIEL"
+  },
+  "botName": {
+    "description": "Aqui está o nome brilhante do seu bot! Um nome que pode ter todo o estilo e personalidade que você desejar. Ele será a estrela da conversa, sempre pronto para ajudar e trazer novidades!",
+    "value": "Sasha Ultimate"
+  },
+  "NewsletterConfig": {
+    "description": "Coloque aqui o ID do canal do WhatsApp para sua newsletter. Assim, você poderá se comunicar diretamente com seus seguidores e espalhar as novidades por aí! Se precisar de ajuda, fale com o dono do bot.",
+    "value": "120363418374369102@newsletter"
+  },
+  "MercadoPago": {
+    "description": "Esse campo é onde você coloca seu access token do Mercado Pago. Com isso, você vai integrar o bot ao sistema de pagamentos e facilitar todas as transações de forma super prática e segura!",
+    "acessToken": "APP_USR-8332421562738195-091917-b03e74b8c9a11ac3de0fbf0a1b11a870-586395884"
+  },
+  "APIs": {
+    "name": "Sasha Apis",
+    "comment": "Uso para os comandos de sociais, downloads e pesquisas. Esta KEY é criada no momento que você adquire o bot e passada por fora ou já é integrada aqui.",
+    "website": "https://api.sabrinabot.xyz/api",
+    "type": "Trial",
+    "apikey": "BIEEL"
+  }
+}
